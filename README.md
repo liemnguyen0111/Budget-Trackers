@@ -14,6 +14,8 @@ When brought back online:
 
   * Offline entries should be added to tracker.
 
+## Screenshot
+ * [UI](./public/image/Capture.PNG)
 ## User Story
 AS AN avid traveller
 I WANT to be able to track my withdrawals and deposits with or without a data/internet connection
@@ -55,7 +57,7 @@ THEN that will be shown on the page, and added to their transaction history when
 
 * You are required to submit the following:
 
-  * the URL to the deployed application
+  * [Deployed link](https://arcane-scrubland-11947.herokuapp.com/)
 
-  * the URL to the Github repository
+  * [Github link](https://github.com/liemnguyen0111/Budget-Trackers)
 
